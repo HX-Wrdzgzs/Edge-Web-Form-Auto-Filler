@@ -44,7 +44,7 @@ pip install selenium
 1. **配置目标地址**：
 打开 `auto_fill_edge.py`，将 `main()` 函数中的 `url` 修改为你需要登录的初始系统网址：
 ```python
-url = "http://202.111.48.235:18082/A05pjpx/" # 替换为你的目标网址
+url = "xxxxxx" # 替换为你的目标网址
 
 ```
 
